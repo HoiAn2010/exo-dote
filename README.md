@@ -1,1 +1,1 @@
-# exo-dote
+# exo-dotenv
